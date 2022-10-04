@@ -1,8 +1,8 @@
-# _TITLE_
+# _Power Plant_
 
-#### By _**Rosario Ruvalcaba**_
+#### By _**Rosario Ruvalcaba and Arthur Ortiz**_
 
-#### _SHORT DESCRIPTION._
+#### _Application to practice functional programming with javascript and testing with Jest._
 
 ## Technologies Used
 
@@ -15,7 +15,7 @@
 
 ## Description
 
-_._
+_Application to practice functional programming with javascript and testing with Jest._
 
 ## Setup/Installation Requirements
 
@@ -23,14 +23,9 @@ _._
 
 * _update the steps!_
 
-* _(See Github page for this project](https://rosarioru.github.io/UPDATE/)_
+* _(See Github page for this project](https://rosarioru.github.io/powerplant.solution/)_
 
 ## Known Bugs
 
 * _update_
 
-## License
-
-MIT License
-
-Copyright (c) _MONTH_YEAR_ _Rosario Ruvalcaba Harwood_
