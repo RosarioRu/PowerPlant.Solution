@@ -9,7 +9,7 @@ export const storeState = () => {
   }
 }
 
-const stateControl = storeState();
+export const stateControl = storeState();
 
 // This is a function factory. We can easily create more specific functions that alter a plant's soil, water, and light to varying degrees.
 

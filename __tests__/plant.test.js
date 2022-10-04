@@ -1,1 +1,6 @@
-import TemplateClassName from '../src/template.js';
+import {
+  storeState,
+  stateControl
+} from "./../src/plant.js";
+
+
